@@ -1,0 +1,114 @@
+#EXTINF:-1 group-title="izzi TV",AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Atres Series
+http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Azteca Siete
+http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Azteca Trece HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA13)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",BANDAMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",BOOMERANG
+http://189.216.247.113/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",CNN
+http://189.216.247.113/Content/HLS/Live/Channel(CNN_ESP)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",CNN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Canal Cinco HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",CARTOON_NETWORK
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",CINEMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",COMEDY CENTRAL
+http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",DE PELICULA
+http://189.216.247.113/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",DISTRITO COMEDIA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",ElGourmet
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Estrellas
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",ESPN 1
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",ESPN 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",ESPN 3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",F1
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Fusionb
+http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",GALA TV SD
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",GOLDEN PLUS
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",HolaTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",iSAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Milenio
+http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",MTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NATGEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NATGEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NBA TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NICKELODEON
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NICK 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",NICK JR
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",PARAMOUNT
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",RITMOSON
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",SONY
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",SUNDANCE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TBS
+http://189.216.247.113/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TCM
+http://189.216.247.113/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Telehit
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",Telnovelas
+http://189.216.247.113/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TIIN
+http://189.216.247.113/Content/HLS/Live/Channel(TIIN)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TRU TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TNT HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",UNICABLE
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",VH1
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",WARNER CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1 group-title="izzi TV",LIFETIME
+http://189.216.247.113/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
